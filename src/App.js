@@ -29,7 +29,7 @@ function App() {
       <p className="par">{tips}</p>
     </div>
     <div className="container">
-    <button onClick={fetchTips} role="button">Find Out</button>
+    <button onClick={fetchTips}>Find Out</button>
     </div>
 
 
